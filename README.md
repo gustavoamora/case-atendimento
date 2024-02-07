@@ -2,6 +2,7 @@
 
 ### Execução:
 Para simplificar a execução do código e pelas características do problema a análise foi feita em um notebook ipynb no google colab.
+
 Formas de execução:
 
 1) Direto pelo google colab -> [LINK](https://colab.research.google.com/github/gustavoamora/case-ton/blob/main/case_ton.ipynb)
