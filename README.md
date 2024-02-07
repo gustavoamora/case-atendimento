@@ -36,7 +36,7 @@ case-ton.ipynb/
 |   ├── Desenvolvimento
 │   └── Conclusão
 │
-data
+data/
 ├── case.csv
 ├── creds.csv
 └── CASE TON.pdf
