@@ -44,7 +44,7 @@ requirements.txt
 └──────────────────────────
 
 ```
-Detalhe das pastas/seções:
+Detalhe das pastas/seções do arquivo principal 'case-ton.ipnb':
 - 'Bibliotecas' serve para importar e instalar as bibliotecas necessárias ao projeto.
 - 'Pré-processamento' contém os scripts de tratamento dos dados feito antes de iniciar as análises.
 - As pastas Q1, Q2 (...) Q5, seguem uma estrutura de subpastas:
