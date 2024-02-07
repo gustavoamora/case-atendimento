@@ -13,7 +13,10 @@ Formas de execução:
    ![Add base de dados](https://github.com/gustavoamora/case-ton/blob/main/images/colab.png)
    Após o carregamento, deve ficar assim:
    ![Add base de dados](https://github.com/gustavoamora/case-ton/blob/main/images/colab2.png)
-2) Clonar o repositório em seu ambiente de preferência que suporte formato ipynb.
+
+   Com estes passos é possível executar os códigos.
+   
+3) Clonar o repositório em seu ambiente de preferência que suporte formato ipynb.
 
 ### Estrutura:
 O projeto segue a seguinte estrutura:
