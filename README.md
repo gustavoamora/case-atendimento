@@ -16,7 +16,7 @@ Formas de execução:
 
    Com estes passos é possível executar os códigos.
    
-3) Clonar o repositório em seu ambiente de preferência que suporte formato ipynb.
+3) Outra opção de execução seria clonar o repositório em seu ambiente de preferência que suporte formato ipynb.
 
 ### Estrutura:
 O projeto segue a seguinte estrutura:
