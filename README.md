@@ -53,6 +53,6 @@ Detalhe das pastas/seções do arquivo principal 'case-ton.ipnb':
   
   &nbsp;&nbsp;&nbsp;&nbsp;* 'Conclusão' -> apenas a resposta da pergunta feita e uma breve lógica do que foi feito no 'Desenvolvimento'; se pertinente a questão pode conter gráficos ou tabelas.
 
-
+###### Dúvidas favor contactar pelo email: gustavoamora@gmail.com
 
 
