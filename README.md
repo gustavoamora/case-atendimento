@@ -37,6 +37,11 @@ case-ton/
 │   └── Conclusão
 └──────────────────
 ```
+A pasta 'Bibliotecas' serve para importar e instalar as bibliotecas necessárias ao projeto.
+A pasta 'Pré-processamento' contém o scrip de tratamento de dados feito antes de iniciar as análises.
+As pastas Q1, Q2 (...) Q5, seguem uma estrutura de subpastas:
+        'Desenvolvimento', contendo os scripts com o raciocínio passo a passo para resolução do problema;
+        'Conclusão', apenas a resposta da pergunta feita e uma breve lógica do que foi feito no 'Desenvolvimento'.
 
 
 
