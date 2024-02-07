@@ -3,7 +3,7 @@
 ### Execução:
 Para simplificar a execução do código e pelas características do problema a análise foi feita em um notebook ipynb no google colab.
 Formas de execução:
-1) Direto pelo google colab -> forma mais simples, necessário apenas uma conta google.
+1) Direto pelo google colab -> forma mais simples, necessário apenas uma conta google. [LINK](https://colab.research.google.com/github/gustavoamora/case-ton/blob/main/case_ton.ipynb)
 2) Clonar o repositório em seu ambiente de preferência que suporte formato ipynb.
 
 ### Estrutura:
@@ -39,7 +39,7 @@ case-ton/
 ```
 Detalhe das pastas (ou das seções por ser um formato ipynb):
 - 'Bibliotecas' serve para importar e instalar as bibliotecas necessárias ao projeto.
-- 'Pré-processamento' contém o scrip de tratamento de dados feito antes de iniciar as análises.
+- 'Pré-processamento' contém os scripts de tratamento dos dados feito antes de iniciar as análises.
 - As pastas Q1, Q2 (...) Q5, seguem uma estrutura de subpastas:
   
   &nbsp;&nbsp;&nbsp;&nbsp;* 'Desenvolvimento' -> contendo os scripts com o raciocínio passo a passo para resolução do problema; se necessário o 'Desenvolvimento' pode ter subpastas para modular os algoritmos desenvolvidos dentro dele.
