@@ -7,9 +7,9 @@ Formas de execução:
 1) Direto pelo google colab -> [LINK](https://colab.research.google.com/github/gustavoamora/case-ton/blob/main/case_ton.ipynb)
    Para visualizar os scripts e seus outputs é simples, basta apenas acessar o link.
    Para executar os scripts é necessário logar em conta google e adicionar os arquivos case.csv e creds.csv (disponíveis na pasta data) dentro do ambiente de 'Arquivos' do colab. Basta baixar os arquivos para sua máquina local e arrastá-los, desta maneira:
-   ![Add base de dados](https://github.com/gustavoamora/case-ton/blob/main/images/colab.png).
-   Após a conclusão, ficará desta maneira:
-   ![Add base de dados](https://github.com/gustavoamora/case-ton/blob/main/images/colab2.png).
+   ![Add base de dados](https://github.com/gustavoamora/case-ton/blob/main/images/colab.png)
+   Após o carregamento deve ficar desta maneira:
+   ![Add base de dados](https://github.com/gustavoamora/case-ton/blob/main/images/colab2.png)
 3) Clonar o repositório em seu ambiente de preferência que suporte formato ipynb.
 
 ### Estrutura:
