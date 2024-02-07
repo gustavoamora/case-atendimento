@@ -10,7 +10,7 @@ Formas de execução:
 O projeto segue a seguinte estrutura:
 
 ```
-case-ton/
+case-ton.ipynb/
 ├── Bibliotecas/
 │   ├── Instalações 
 │   └── Import
@@ -35,7 +35,14 @@ case-ton/
 ├── Q5/
 |   ├── Desenvolvimento
 │   └── Conclusão
-└──────────────────
+│
+data
+├── case.csv
+├── creds.csv
+└── CASE TON.pdf
+requirements.txt
+└──────────────────────────
+
 ```
 Detalhe das pastas/seções:
 - 'Bibliotecas' serve para importar e instalar as bibliotecas necessárias ao projeto.
