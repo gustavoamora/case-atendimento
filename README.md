@@ -13,7 +13,6 @@ O projeto segue a seguinte estrutura:
 case-ton/
 ├── Bibliotecas/
 │   ├── Instalações 
-│   │   └── arquivo3
 │   └── Import
 ├── Pré-processamento/
 |   ├── Tabela 'cases'
