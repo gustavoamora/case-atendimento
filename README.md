@@ -6,12 +6,14 @@ Para simplificar a execução do código e pelas características do problema a 
 Formas de execução:
 
 1) Direto pelo google colab -> [LINK](https://colab.research.google.com/github/gustavoamora/case-ton/blob/main/case_ton.ipynb)
-   Para visualizar os scripts e seus outputs é simples, basta apenas acessar o link.
-   Para executar os scripts é necessário logar em conta google e adicionar os arquivos case.csv e creds.csv (disponíveis na pasta data) dentro do ambiente de 'Arquivos' do colab. Basta baixar os arquivos para sua máquina local e arrastá-los, desta maneira:
+   
+   &nbsp;&nbsp;&nbsp;&nbsp;- Para visualizar os scripts e seus outputs é simples, basta apenas acessar o link.
+   
+   &nbsp;&nbsp;&nbsp;&nbsp;- Para executar os scripts é necessário logar em conta google e adicionar os arquivos case.csv e creds.csv (disponíveis na pasta data) dentro do ambiente de 'Arquivos' do colab. Basta baixar os                               arquivos para sua máquina          local e arrastá-los, desta maneira:
    ![Add base de dados](https://github.com/gustavoamora/case-ton/blob/main/images/colab.png)
    Após o carregamento deve ficar desta maneira:
    ![Add base de dados](https://github.com/gustavoamora/case-ton/blob/main/images/colab2.png)
-3) Clonar o repositório em seu ambiente de preferência que suporte formato ipynb.
+2) Clonar o repositório em seu ambiente de preferência que suporte formato ipynb.
 
 ### Estrutura:
 O projeto segue a seguinte estrutura:
