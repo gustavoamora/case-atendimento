@@ -9,7 +9,7 @@ Formas de execução:
 ### Estrutura:
 O projeto segue a seguinte estrutura:
 
-'''
+```
 projeto/
 ├── pasta1/
 │   ├── subpasta1/
@@ -18,7 +18,7 @@ projeto/
 ├── pasta2/
 │   └── arquivo2.ext
 └── arquivoRaiz.ext
-'''
+```
 
 
 
