@@ -37,7 +37,7 @@ case-ton/
 │   └── Conclusão
 └──────────────────
 ```
-Detalhe das pastas:
+Detalhe das pastas (ou das seções por ser um formato ipynb):
 - 'Bibliotecas' serve para importar e instalar as bibliotecas necessárias ao projeto.
 - 'Pré-processamento' contém o scrip de tratamento de dados feito antes de iniciar as análises.
 - As pastas Q1, Q2 (...) Q5, seguem uma estrutura de subpastas:
