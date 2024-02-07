@@ -10,13 +10,29 @@ Formas de execução:
 O projeto segue a seguinte estrutura:
 
 ```
-projeto/
-├── pasta1/
-│   ├── subpasta1/
-│   │   └── arquivo3.ext
-│   └── arquivo1.ext
-├── pasta2/
-│   └── arquivo2.ext
+case-ton/
+├── Bibliotecas/
+│   ├── Instalações 
+│   │   └── arquivo3
+│   └── Import
+├── Pré-processamento/
+|   ├── Tabela 'cases'
+│   ├── Tabela 'creds'   
+├── Q1/
+|   ├── Desenvolvimento
+│   ├── Conclusão
+├── Q2/
+|   ├── Desenvolvimento
+│   ├── Conclusão
+├── Q3/
+|   ├── Desenvolvimento
+│   ├── Conclusão
+├── Q4/
+|   ├── Desenvolvimento
+│   ├── Conclusão
+├── Q5/
+|   ├── Desenvolvimento
+│   ├── Conclusão
 └── arquivoRaiz.ext
 ```
 
