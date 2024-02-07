@@ -17,23 +17,26 @@ case-ton/
 │   └── Import
 ├── Pré-processamento/
 |   ├── Tabela 'cases'
-│   ├── Tabela 'creds'   
+│   └── Tabela 'creds'   
 ├── Q1/
 |   ├── Desenvolvimento
-│   ├── Conclusão
+│   └── Conclusão
 ├── Q2/
 |   ├── Desenvolvimento
-│   ├── Conclusão
+│   └── Conclusão
 ├── Q3/
 |   ├── Desenvolvimento
-│   ├── Conclusão
+│   │   └── Volume por categoria e subcategorias
+│   │   └── Regras de associação
+│   │   └── Cadeia de Markov
+│   └── Conclusão
 ├── Q4/
 |   ├── Desenvolvimento
-│   ├── Conclusão
+│   └── Conclusão
 ├── Q5/
 |   ├── Desenvolvimento
-│   ├── Conclusão
-└── arquivoRaiz.ext
+│   └── Conclusão
+└──────────────────
 ```
 
 
