@@ -78,6 +78,10 @@ Detalhe das pastas/seções do arquivo principal 'case-ton.ipnb':
   
   &nbsp;&nbsp;&nbsp;&nbsp;* 'Conclusão' -> apenas a resposta da pergunta feita e uma breve lógica do que foi feito no 'Desenvolvimento'; se pertinente a questão pode conter gráficos ou tabelas.
 
+### Dados:
+<img width="284" alt="image" src="https://github.com/gustavoamora/case-atendimento/assets/99370492/21c34ad1-f1f7-4b4d-9a67-8c3030d25447">
+
+
 ###### Dúvidas favor contactar pelo email: gustavoamora@gmail.com
 
 
