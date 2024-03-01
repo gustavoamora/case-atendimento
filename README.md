@@ -1,5 +1,15 @@
 # case atendimento
 
+### Overview:
+Este projeto tem como objetivo abordar o uso de I.A e a criação de KPIs para a área de relacionamento com o cliente.
+
+Questões a serem respondidas:
+1. Foi implementada no dia 1 de agosto uma funcionalidade nova no site que acreditam que irá diminuir a quantidade de chamados recebidos relacionados ao nosso produto. Avalie se a implementação teve um impacto estatisticamente relevante.
+2. Foi notado por alguns agentes do Relacionamento com o Cliente que clientes mais recentes possuem um comportamento específico em relação à quantidade de chamados realizados logo após seu credenciamento. Prepare alguma forma de visualizar essa diferença notada pelos agentes.
+3. Para conseguir melhorar a qualidade do atendimento ao cliente, foi proposto que a fila de espera para atendimento contemple prioridade para certos casos de atendimento. Proponha uma clusterização da base de clientes que julgue atender da melhor forma a necessidade apresentada.
+4. Usando as tabelas disponibilizadas, faça um query que retorne o volume de chamados por semana dos últimos três meses para cada cluster de clientes proposto na questão 3.
+5. Para melhorar o direcionamento da área de Relacionamento com o Cliente, a gestão precisa do insumo necessário para entender como se comportam nossos clientes e assim melhorar a tomada de decisão. Apresente pelo menos 3 KPIs que julgue relevantes para acompanhamento diário da operação do Relacionamento com oCliente.
+
 ### Execução:
 Para simplificar a execução do código e pelas características do problema a análise foi feita em um notebook ipynb no google colab.
 
