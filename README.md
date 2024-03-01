@@ -1,4 +1,4 @@
-# case-ton
+# case atendimento
 
 ### Execução:
 Para simplificar a execução do código e pelas características do problema a análise foi feita em um notebook ipynb no google colab.
